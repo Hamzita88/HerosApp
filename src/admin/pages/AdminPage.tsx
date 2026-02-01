@@ -1,12 +1,3 @@
-
-
-
-const AdminPage = () => {
-  return (
-    <>
-      <h1>Hola mundo</h1>
-    </>
-  )
-}
-
-export default AdminPage
+export const AdminPage = () => {
+  return <div>AdminPage</div>;
+};
